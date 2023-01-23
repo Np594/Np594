@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Np594
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Robotics and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Np594/Np594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Np594, I'm 19 years old, and very enthusiastic about programming
+- 🌱 I’m currently working towards a BEng in Robotics and AI at the University of Hertfordshire.
+- 👀 I’m interested in programming especially game development, AR and VR applications.
