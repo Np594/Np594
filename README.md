@@ -1,5 +1,5 @@
 👋 Hi, I’m @Np594, I'm 19 years old, and very enthusiastic about programming
-I’m currently working towards a BEng in Robotics and AI at the University of Hertfordshire.
+I’m currently working towards a BEng in Robotics and AI at University.
 I’m interested in programming especially game development, AR and VR applications.
 
 I have already started working on some of my own projects which will start to appear on here soon.
