@@ -5,3 +5,6 @@ I’m interested in programming especially game development, AR and VR applicati
 I have already started working on some of my own projects which will start to appear on here soon.
 I have already made use of computer vision and machine learning in my gesture controlled UI
 which I intend to develop much further and fix some of the current bugs.
+
+As part of my course at university I have also designed, 3D Printed, wired and profgrammed multiple robots
+which can be seen here(https://photos.app.goo.gl/YJNPbgZzXgg4zSNp7)
